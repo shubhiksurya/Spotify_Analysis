@@ -8,11 +8,11 @@ The project demonstrates the complete workflow – from raw dataset to insights 
 ##  Repository Structure  
 
 - **/data**
-  - `spotify_raw_data.xlsx` → Original dataset (tracks, artists, popularity, streams, etc.)  
-  - `spotify_query_results.xlsx` → SQL query outputs stored in Excel  
+  - `Spotify_analysis.xlsx` → Original dataset (tracks, artists, popularity, streams, etc.)  
+  - `Spotify_query.xlsx` → SQL query outputs stored in Excel  
 
 - **/sql**
-  - `spotify_analysis_queries.sql` → All SQL queries for cleaning, transformation, and analysis  
+  - `Spotify_DA.sql` → All SQL queries for cleaning, transformation, and analysis  
 
 - **/reports**
   - `Spotify_Analysis_Report.docx` → Word version of the analysis report  
