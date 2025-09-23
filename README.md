@@ -15,11 +15,11 @@ The project showcases the complete workflow from **raw data exploration → SQL 
 
 ##  Files in Repo
 - `raw_data/` → Original dataset used  
-- `spotify_queries.sql` → SQL file with all queries  
-- `spotify_queries_output.xlsx` → Query results exported to Excel  
+- `Spotify_DA.sql` → SQL file with all queries  
+- `spotify_queries.csv` → Query results exported to Excel  
 - `spotify_queries_output.pdf` → Query results in PDF format  
-- `spotify_analysis.pbix` → Power BI dashboard  
-- `spotify_analysis.pdf` → PDF export of the Power BI dashboard  
+- `Spotify_analysis.pbix` → Power BI dashboard  
+- `Spotify_analysis.pdf` → PDF export of the Power BI dashboard  
 
 
 
